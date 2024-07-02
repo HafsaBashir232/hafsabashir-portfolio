@@ -49,15 +49,7 @@ __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
 
-__SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
 
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
 
 ## Tools
 
@@ -66,7 +58,7 @@ __TestRail__
   * able to run created test cases
   * know how to use dashboards and statistics
 
-__Jira__
+__ClickUp__
   * know how to create bug reports
   * able to create projects and track their progress
 
@@ -77,7 +69,7 @@ __Browser developer tools__
 __VirtualBox__
   * able to set up and operate virtual machines
 
-__Trello and Notion__
+__Trello __
   * know how to use Kanban boards and track project progress
 
 __Mind maps & diagrams__
