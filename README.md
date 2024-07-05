@@ -33,19 +33,17 @@ Manual Testing:
 - Performs both functional and usability functional testing of web applications.
 - Acquired practical experience by evaluating applications developed for educational purposes.
 
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+Test Documentation:
+- Skilled in the creation of test cases and checklists, understanding the appropriate contexts for their effective use.
+- Capable of preparing thorough bug reports and providing detailed session reports.
 
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
+Test Analysis & Design:
+- Proficient in the functional decomposition of products, the creation of state transition diagrams, and the development of use cases.
+- Capable of applying equivalence partitioning, boundary value analysis, and various pairwise testing methodologies to generate test input data.
     
-__Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
-
+API Testing:
+- Acquired expertise through the manual testing of APIs developed for educational purposes.
+- Proficient in manipulating requests 
 
 
 ## Tools
@@ -59,36 +57,21 @@ __ClickUp__
   * know how to create bug reports
   * able to create projects and track their progress
 
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
+__BrowserStack__
+  * test websites and mobile applications across various browsers, operating systems, and devices
 
 __Trello __
   * know how to use Kanban boards and track project progress
 
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+__Postman ___
+*  know API development, create, test, and document APIs efficiently
 
 ## Courses
-
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
 
 __The 1st Online Institute of Software Testing__  
 *online course by Quality Lab, Moscow, Russia*  
 A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
 [Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
-
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
 
 
 ## Examples of my work
