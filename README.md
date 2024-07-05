@@ -29,9 +29,9 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
-__Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+Manual Testing:
+- Performs both functional and usability functional testing of web applications.
+- Acquired practical experience by evaluating applications developed for educational purposes.
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
