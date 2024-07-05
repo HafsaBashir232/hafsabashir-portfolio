@@ -14,13 +14,13 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+I am a passionate and dedicated Quality Assurance (QA) professional with a keen eye for detail and a commitment to delivering exceptional software products. My journey in QA began with a solid foundation in research and analysis, where I developed a meticulous and structured approach to problem-solving.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I thrive on communication and collaboration, enjoying the process of working with cross-functional teams to identify issues and improve product quality. My problem-solving nature drives me to find innovative solutions and continuously enhance the user experience.
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+Currently, I am expanding my expertise through intensive study of the latest QA techniques and tools. I actively engage in testing web applications designed for learning purposes, honing my skills and staying up-to-date with industry trends.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+I am eager to bring my knowledge and experience to operational products, contributing to the success of projects and delivering software that exceeds expectations.
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/10Fmvw9Xb1Cr8c4qZNLygh6uONE3lLJkI/view?usp=drive_link)
