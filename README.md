@@ -109,3 +109,4 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ## Books I have read
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
+"Agile Testing: A Practical Guide for Testers and Agile Teams"__ Lisa Crispin 2008 - The widespread adoption of agile methods has brought the need for effective testing into the limelight, and agile projects have transformed the role of testers
