@@ -60,10 +60,10 @@ __ClickUp__
 __BrowserStack__
   * test websites and mobile applications across various browsers, operating systems, and devices
 
-__Trello __
+Trello
   * know how to use Kanban boards and track project progress
 
-__Postman ___
+Postman
 *  know API development, create, test, and document APIs efficiently
 
 ## Courses
